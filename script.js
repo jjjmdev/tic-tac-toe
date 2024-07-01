@@ -26,8 +26,6 @@ const combinations = [
 	[3, 6, 9],
 ];
 
-const dummy = [1, 5, 6, 9];
-
 function check(arr) {
 	const arrayToCheck = arr;
 
